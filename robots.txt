@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miguelcastro.com.br/sitemap.xml
